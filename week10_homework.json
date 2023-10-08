@@ -73,6 +73,7 @@
         "y": {
             "field": "Deaths",
             "type": "quantitative",
+            "title": "Deaths",
             "axis": {
                 "tickCount": 6
             },
@@ -92,6 +93,7 @@
                 "size": {
                     "field": "Population_Size",
                     "type": "quantitative",
+                    "title": "Population Size",
                     "scale": {
                         "type": "threshold",
                         "domain": [
@@ -117,6 +119,7 @@
                 "color": {
                     "field": "Lockdown_Type",
                     "type": "nominal",
+                    "title": "Lockdown Type",
                     "scale": {
                         "domain": [
                             "Full",
