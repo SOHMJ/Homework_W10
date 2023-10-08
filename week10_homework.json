@@ -147,6 +147,7 @@
                     {
                         "field": "Population_Size",
                         "type": "quantitative",
+                        "title": "Population Size",
                         "format": ","
                     },
                     {
